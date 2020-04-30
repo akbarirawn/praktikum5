@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="google_maps_key">AIzaSyCay9oXOZwiMRkHJMTABaoBu1w1MEa-MEE</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>Masjid</item>
+        <item>Restoran</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>SMA</item>
+        <item>Rumah Sakit</item>
+        <item>Laundry</item>
+        <item>SMP</item>
+        <item>Kantor Pos</item>
+        <item>Kantor Polisi</item>
+    </string-array>
+</resources>
